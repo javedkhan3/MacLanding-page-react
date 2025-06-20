@@ -9,8 +9,8 @@ function App() {
   return (
     <div className='w-full h-screen'>
       <div className='absolute flex flex-col  items-center text-white top-16 left-1/2 -translate-x-1/2 '>
-        <h3 className='text-7xl tracking-tighter font-[700]'>Macboob Pro.</h3>
-        <h5>Oh so pro</h5>       
+        <h3 className='text-7xl tracking-tighter font-[700]'>Macbook Pro.</h3>
+        <h5>Model 2018</h5>       
          <p className="text-center w-3/4">
           
           Voluptatem ratione unde, est dignissimos sequi aperiam fugiat voluptatum reiciendis.
